@@ -1,0 +1,265 @@
+{
+  "ART_AND_DESIGN": {
+    "section": "Apps",
+    "html_structure": "rows",
+    "category": "Art & Design"
+  },
+  "AUTO_AND_VEHICLES": {
+    "section": "Apps",
+    "html_structure": "rows",
+    "category": "Auto & Vehicles"
+  },
+  "BEAUTY": {
+    "section": "Apps",
+    "html_structure": "rows",
+    "category": "Beauty"
+  },
+  "BOOKS_AND_REFERENCE": {
+    "section": "Apps",
+    "html_structure": "rows",
+    "category": "Books & Reference"
+  },
+  "BUSINESS": {
+    "section": "Apps",
+    "html_structure": "rows",
+    "category": "Business"
+  },
+  "COMICS": {
+    "section": "Apps",
+    "html_structure": "rows",
+    "category": "Comics"
+  },
+  "COMMUNICATION": {
+    "section": "Apps",
+    "html_structure": "rows",
+    "category": "Communication"
+  },
+  "DATING": {
+    "section": "Apps",
+    "html_structure": "rows",
+    "category": "Dating"
+  },
+  "EDUCATION": {
+    "section": "Apps",
+    "html_structure": "rows",
+    "category": "Education"
+  },
+  "ENTERTAINMENT": {
+    "section": "Apps",
+    "html_structure": "rows",
+    "category": "Entertainment"
+  },
+  "EVENTS": {
+    "section": "Apps",
+    "html_structure": "rows",
+    "category": "Events"
+  },
+  "FINANCE": {
+    "section": "Apps",
+    "html_structure": "rows",
+    "category": "Finance"
+  },
+  "FOOD_AND_DRINK": {
+    "section": "Apps",
+    "html_structure": "rows",
+    "category": "Food & Drink"
+  },
+  "HEALTH_AND_FITNESS": {
+    "section": "Apps",
+    "html_structure": "rows",
+    "category": "Health & Fitness"
+  },
+  "HOUSE_AND_HOME": {
+    "section": "Apps",
+    "html_structure": "rows",
+    "category": "House & Home"
+  },
+  "LIBRARIES_AND_DEMO": {
+    "section": "Apps",
+    "html_structure": "rows",
+    "category": "Libraries & Demo"
+  },
+  "LIFESTYLE": {
+    "section": "Apps",
+    "html_structure": "rows",
+    "category": "Lifestyle"
+  },
+  "MAPS_AND_NAVIGATION": {
+    "section": "Apps",
+    "html_structure": "rows",
+    "category": "Maps & Navigation"
+  },
+  "MEDICAL": {
+    "section": "Apps",
+    "html_structure": "rows",
+    "category": "Medical"
+  },
+  "MUSIC_AND_AUDIO": {
+    "section": "Apps",
+    "html_structure": "rows",
+    "category": "Music & Audio"
+  },
+  "NEWS_AND_MAGAZINES": {
+    "section": "Apps",
+    "html_structure": "rows",
+    "category": "News & Magazines"
+  },
+  "PARENTING": {
+    "section": "Apps",
+    "html_structure": "rows",
+    "category": "Parenting"
+  },
+  "PERSONALIZATION": {
+    "section": "Apps",
+    "html_structure": "rows",
+    "category": "Personalization"
+  },
+  "PHOTOGRAPHY": {
+    "section": "Apps",
+    "html_structure": "rows",
+    "category": "Photography"
+  },
+  "PRODUCTIVITY": {
+    "section": "Apps",
+    "html_structure": "rows",
+    "category": "Productivity"
+  },
+  "SHOPPING": {
+    "section": "Apps",
+    "html_structure": "rows",
+    "category": "Shopping"
+  },
+  "SOCIAL": {
+    "section": "Apps",
+    "html_structure": "rows",
+    "category": "Social"
+  },
+  "SPORTS": {
+    "section": "Apps",
+    "html_structure": "rows",
+    "category": "Sports"
+  },
+  "TOOLS": {
+    "section": "Apps",
+    "html_structure": "rows",
+    "category": "Tools"
+  },
+  "TRAVEL_AND_LOCAL": {
+    "section": "Apps",
+    "html_structure": "rows",
+    "category": "Travel & Local"
+  },
+  "VIDEO_PLAYERS": {
+    "section": "Apps",
+    "html_structure": "rows",
+    "category": "Video Players & Editors"
+  },
+  "ANDROID_WEAR": {
+    "section": "Apps",
+    "html_structure": "rows",
+    "category": "Wear OS by Google"
+  },
+  "WATCH_FACE": {
+    "section": "Apps",
+    "html_structure": "rows",
+    "category": "Watch faces"
+  },
+  "WEATHER": {
+    "section": "Apps",
+    "html_structure": "rows",
+    "category": "Weather"
+  },
+  "GAME": {
+    "section": "Games",
+    "html_structure": "rows"
+  },
+  "GAME_ACTION": {
+    "section": "Games",
+    "html_structure": "rows",
+    "category": "Action"
+  },
+  "GAME_ADVENTURE": {
+    "section": "Games",
+    "html_structure": "rows",
+    "category": "Adventure"
+  },
+  "GAME_ARCADE": {
+    "section": "Games",
+    "html_structure": "rows",
+    "category": "Arcade"
+  },
+  "GAME_BOARD": {
+    "section": "Games",
+    "html_structure": "rows",
+    "category": "Board"
+  },
+  "GAME_CARD": {
+    "section": "Games",
+    "html_structure": "rows",
+    "category": "Card"
+  },
+  "GAME_CASINO": {
+    "section": "Games",
+    "html_structure": "rows",
+    "category": "Casino"
+  },
+  "GAME_CASUAL": {
+    "section": "Games",
+    "html_structure": "rows",
+    "category": "Casual"
+  },
+  "GAME_EDUCATIONAL": {
+    "section": "Games",
+    "html_structure": "rows",
+    "category": "Educational"
+  },
+  "GAME_MUSIC": {
+    "section": "Games",
+    "html_structure": "rows",
+    "category": "Music"
+  },
+  "GAME_PUZZLE": {
+    "section": "Games",
+    "html_structure": "rows",
+    "category": "Puzzle"
+  },
+  "GAME_RACING": {
+    "section": "Games",
+    "html_structure": "rows",
+    "category": "Racing"
+  },
+  "GAME_ROLE_PLAYING": {
+    "section": "Games",
+    "html_structure": "rows",
+    "category": "Role Playing"
+  },
+  "GAME_SIMULATION": {
+    "section": "Games",
+    "html_structure": "rows",
+    "category": "Simulation"
+  },
+  "GAME_SPORTS": {
+    "section": "Games",
+    "html_structure": "rows",
+    "category": "Sports"
+  },
+  "GAME_STRATEGY": {
+    "section": "Games",
+    "html_structure": "rows",
+    "category": "Strategy"
+  },
+  "GAME_TRIVIA": {
+    "section": "Games",
+    "html_structure": "rows",
+    "category": "Trivia"
+  },
+  "GAME_WORD": {
+    "section": "Games",
+    "html_structure": "rows",
+    "category": "Word"
+  },
+  "FAMILY": {
+    "section": "Kids",
+    "html_structure": "rows"
+  }
+}
