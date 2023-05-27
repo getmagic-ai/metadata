@@ -260,6 +260,7 @@
   },
   "FAMILY": {
     "section": "Kids",
-    "html_structure": "rows"
+    "html_structure": "rows",
+    "category": "Word"
   }
 }
